@@ -6,9 +6,9 @@ In this project, I implemented a MapReduce-like framework using Apache Spark to 
 
 Objectives:
 
-Compute the average rating of each movie from a large dataset of user reviews.
-Identify the top 10 highest-rated and bottom 10 lowest-rated movies.
-Implement a MapReduce-like approach using Spark's RDD and DataFrame API.
+To Compute the average rating of each movie from a large dataset of user reviews.
+To Identify the top 10 highest-rated and bottom 10 lowest-rated movies,
+and to implement a MapReduce-like approach using Spark's RDD and DataFrame API, as to 
 Showcase the benefits of distributed computing for processing large datasets.
 
 Project Structure:
@@ -27,4 +27,4 @@ The bottom 10 movies with the lowest average ratings.
 
 Conclusion:
 
-This project demonstrates the power of Apache Spark and MapReduce for processing and analyzing large-scale movie ratings data, allowing efficient extraction of key insights. Feel free to contribute and expand the project
+This project demonstrates the power of Apache Spark and MapReduce for processing and analyzing large-scale movie ratings data, allowing efficient extraction of key insights. 
